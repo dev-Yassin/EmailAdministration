@@ -1,0 +1,1 @@
+This project will assist in the creation of emails for new employees at a company.
